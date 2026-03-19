@@ -1,0 +1,28 @@
+body {
+  display: flex;
+  justify-content: center;   
+  align-items: center;       
+  height: 100vh;             
+  margin: 0;
+  background-image: url(https://media.istockphoto.com/id/1060748862/vector/raised-hands-volunteering.jpg?s=612x612&w=0&k=20&c=nM8H6CHaGJxxVmeQpf_jpG-DBBWoV9k07bbY_UqlDSk=);
+  background-size: cover;
+  background-position: center;
+height: auto;
+}
+
+.container {
+max-width: 500px;   
+margin: 50px auto;  
+padding: 20px;
+font-size: 14px;    
+display: inline-block;                     
+background-color: rgb(225, 207, 207); 
+text-align: center;
+border: 5px solid rgb(122, 112, 112); 
+}
+
+h1 {
+    font-size: 20px;    
+    
+}
+
